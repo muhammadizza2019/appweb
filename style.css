@@ -1,0 +1,14 @@
+.navbar{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.navbar-brand{
+    padding-right: 40px;
+}
+
+.nav-item{
+    padding-right: 20px;
+}
